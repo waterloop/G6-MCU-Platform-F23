@@ -2,9 +2,12 @@
 
 Code Repo for the Rpi 4 MCU for Goose 6
 
-#Cloning Repo
-`git clone https://github.com/waterloop/G6-MCU-Platform-F23.git
+## Installation
+
+```bash
+git clone https://github.com/waterloop/G6-MCU-Platform-F23.git
 cd G6-MCU-Platform-F23
 
-git submodule update --init --recursive`
+git submodule update --init --recursive
+```
 
